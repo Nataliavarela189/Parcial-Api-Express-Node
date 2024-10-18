@@ -1,0 +1,11 @@
+{
+  "name": "parcial_dds_3k1a",
+  "version": "1.0.0",
+  "description": "El objetivo de este proyecto parcial es que los estudiantes demuestren su capacidad para integrar y completar código en una aplicación web que utiliza tecnologías de frontend y backend. La aplicación mostrará una lista de musculos del cuerpo humano.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
